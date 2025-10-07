@@ -8,9 +8,13 @@ but I decided to keep it publicly available.
 Perhaps one day this small script will grow into something bigger.
 
 <HOW TO LAUNCH?>
- Folder AutoPy, transport along the path:  (.\python\python38-32\lib\site-packages)
+ 1) In terminal: pip install AutoPy
  
- In terminal: python -m AutoPy
+ or:
+
+ Folder AutoPy, transport along the path:  (.\python\python38-32\lib\site-packages) 
+ 
+ 2) In terminal: python -m AutoPy
 
 
 Creates the following structure:
