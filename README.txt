@@ -1,14 +1,17 @@
-<DESCRIPTION>
-v. of products: 0.0.1
-AutoPy is a easy lib for create tree of project. 
+<DESCRIPTION>
+ V. of library: 0.0.1
 
-This library was originally written for my own small, private projects, 
+ AutoPy is a easy lib for create tree of project. 
+
+ This library was originally written for my own small, private projects, 
 but I decided to keep it publicly available. 
 Perhaps one day this small script will grow into something bigger.
 
 <HOW TO LAUNCH?>
-Folder AutoPy, transport along the path:  (.\python\python38-32\lib\site-packages)
-In terminal: python -m AutoPy
+ Folder AutoPy, transport along the path:  (.\python\python38-32\lib\site-packages)
+ 
+ In terminal: python -m AutoPy
+
 
 Creates the following structure:
 
@@ -33,7 +36,8 @@ MyProjects
    .gitignore
    .toml
 
-BY PYTHOFANOFF.
+
+BY PYTHOFANOFF. 
 
 
 
