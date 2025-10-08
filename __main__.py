@@ -6,28 +6,25 @@ except ImportError as e:
 
 
 if __name__ == "__main__":
-    start = time.time()
     sep = '-' * 15
 
+    src_fld = ('src', 'src/tests', 'src/logs', 'src/configs', 'src/functions', 'src/classes', 'src/images', 'src/cashes')
+    
+    
+    start = time.time()
+    
     print(sep)
     print('AutoPy start...')
     print(sep)
 
     try:
-
-        os.makedirs("src", exist_ok=True)
-        os.makedirs("src/tests", exist_ok=True)
-        os.makedirs("src/logs", exist_ok=True)
-        os.makedirs("src/configs", exist_ok=True)
-        os.makedirs("src/functions", exist_ok=True)
-        os.makedirs("src/classes", exist_ok=True)
-        os.makedirs("src/images", exist_ok=True)
-        os.makedirs("src/cashes", exist_ok=True)
+        for el in src_fld:
+            os.makedirs(el, exist_ok=True)
 
 
         with open(".gitignore", "x") as file: pass
 
-        with open("README.txt", "x", encoding="UTF-8") as file: pass
+        with open("README.md", "x", encoding="UTF-8") as file: pass
 
         with open("pyproject.toml", "x") as file: pass
 
