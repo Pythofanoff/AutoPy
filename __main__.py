@@ -13,20 +13,28 @@ if __name__ == "__main__":
     src_fle = ('.gitignore', 'README.md', 'pyproject.toml', 'src/main.py')
 
     start = time.time()
-    
-    print(sep)
-    print('AutoPy start...')
-    print(sep)
+
+    print('''
+██████╗░██╗░░░██╗░██████╗░█████╗░
+██╔══██╗╚██╗░██╔╝██╔════╝██╔══██╗
+██████╔╝░╚████╔╝░╚█████╗░██║░░╚═╝
+██╔═══╝░░░╚██╔╝░░░╚═══██╗██║░░██╗
+██║░░░░░░░░██║░░░██████╔╝╚█████╔╝
+╚═╝░░░░░░░░╚═╝░░░╚═════╝░░╚════╝░''')
 
     try:
         for el in src_fld:
-            os.makedirs(el, exist_ok=True)
+            os.makedirs(el, exist_ok=True)
 
-        for el in src_fle:
+
+        for el in src_fle:
+
            with open(el, "x", encoding="UTF-8") as file: pass
-
+
+
     except FileExistsError as e: print(f"The following files already exist: {e}")
 
     finally: print(f"{sep} \n[Spent {round(time.time() - start, 3)}]: AutoPy created the project structure successfully \n{sep}")
+
 
 
