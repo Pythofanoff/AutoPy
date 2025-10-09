@@ -20,11 +20,11 @@ Perhaps one day this small script will grow into something bigger.
 Creates the following structure:
 
 MyProjects|
- ∟ src
-    |
+ ∟ src  
+ |  |  
  |    ── configs
  |  |
- |    ── logs
+      ── logs      
     |
  |    ── funtions
  |  |
