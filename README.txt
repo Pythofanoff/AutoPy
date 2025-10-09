@@ -23,22 +23,22 @@ MyProjects|
  ∟ src
  |  |  
  |  |── configs
- |
+ |  |
  |  | 
  |  |── logs 
- |
+ |  |
  |  |
  |  |── funtions
- | 
+ |  |
  |  | 
  |  |── classes
- |    
+ |  |  
  |  |
  |  |── tests
- |  
+ |  |
  |  |
  |  |── images
- |
+ |  |
  |  |
  |  |── cashes 
  |
