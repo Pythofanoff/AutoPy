@@ -33,10 +33,15 @@ if __name__ == "__main__":
     
     try:
         for el in src_fld:
+            print(f'[Spent: {round(time.time() - start, 3)}]: Create {el}')
+
             os.makedirs(el, exist_ok=True)
+            
 
         for el in src_fle:
-            if el == '.gitignore' and os.path.exists('./venv'): open('.gitingnore', "w", encoding="UTF-8").write('venv')
+            print(f'[Spent: {round(time.time() - start, 3)}]: Create {el}')
+
+            if el == '.gitignore' and os.path.exists('./venv'): open('.gitignore', "w", encoding="UTF-8").write('venv')
             else: open(el, "x", encoding="UTF-8")
 
 
