@@ -23,33 +23,27 @@ MyProjects|
  ∟ src
  |  |  
  |  |── configs
- |  |
-
+ |
  |  | 
  |  |── logs 
- |  |
-
+ |
  |  |
  |  |── funtions
- |  |
-   
- |  |── classes 
- |  |
+ | 
+ |  | 
+ |  |── classes
  |    
-    |
-    |── tests
  |  |
-
-    |
-    |── images
-    |
-
-    |
-    |── cashes 
-    |
+ |  |── tests
+ |  
+ |  |
+ |  |── images
+ |
+ |  |
+ |  |── cashes 
  |
  |
- ∟ ── README.TXT
+ ∟ ── README.md
  ∟ ── .gitignore
  ∟ ── pyproject.toml
 
