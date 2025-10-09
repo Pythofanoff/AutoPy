@@ -20,21 +20,33 @@ Perhaps one day this small script will grow into something bigger.
 Creates the following structure:
 
 MyProjects|
- ∟ src  
+ ∟ src
  |  |  
- |    ── configs
+ |  |── configs
  |  |
-      ── logs      
-    |
- |    ── funtions
+
+ |  | 
+ |  |── logs 
  |  |
- |    ── classes
-    |
- |    ── tests
+
  |  |
- |    ── images
+ |  |── funtions
+ |  |
+   
+ |  |── classes 
+ |  |
+ |    
     |
- |    ── cashes 
+    |── tests
+ |  |
+
+    |
+    |── images
+    |
+
+    |
+    |── cashes 
+    |
  |
  |
  ∟ ── README.TXT
@@ -42,6 +54,7 @@ MyProjects|
  ∟ ── pyproject.toml
 
 CODE BY PYTHOFANOFF. 
+
 
 
 
