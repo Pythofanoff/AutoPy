@@ -1,4 +1,4 @@
-```﻿<DESCRIPTION>```
+<DESCRIPTION>
  
 v. of lib: 0.0.1
 
@@ -31,7 +31,7 @@ MyProjects/
  
  or:
 
- Folder APySC, transport along the path:  ```.\python\python38-32\lib\site-packages```
+ Folder APySC, transport along the path:     ```.\python\python38-32\lib\site-packages```
  
  2) In terminal: ```python -m APySC```
 
