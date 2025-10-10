@@ -19,36 +19,23 @@ Perhaps one day this small script will grow into something bigger.
 
 Creates the following structure:
 
-<MyProjects>
- ∟ src
- |  |  
- |  |── configs
- |  |
- |  | 
- |  |── logs 
- |  |
- |  |
- |  |── funtions
- |  |
- |  | 
- |  |── classes
- |  |  
- |  |
- |  |── tests
- |  |
- |  |
- |  |── images
- |  |
- |  |
- |  |── cashes 
- |
- |
- ∟ ── VirtualEnviroment
- ∟ ── README.md
- ∟ ── .gitignore
- ∟ ── pyproject.toml
+```
+MyProjects/
+├── src/
+│   ├── configs/
+│   ├── logs/
+│   ├── functions/
+│   ├── classes/
+│   ├── tests/
+│   ├── images/
+│   └── caches/
+├── .gitignore
+├── pyproject.toml
+└── README.md
+```
 
 CODE BY PYTHOFANOFF. 
+
 
 
 
