@@ -7,16 +7,6 @@
 but I decided to keep it publicly available. 
 Perhaps one day this small script will grow into something bigger.
 
-<HOW TO LAUNCH?>
- 1) In terminal: ```pip install APySC```
- 
- or:
-
- Folder APySC, transport along the path:  ```.\python\python38-32\lib\site-packages```
- 
- 2) In terminal: ```python -m APySC```
-
-
 Creates the following structure:
 
 ```
@@ -35,7 +25,16 @@ MyProjects/
 └── README.md
 ```
 
-CODE BY PYTHOFANOFF. 
+<HOW TO LAUNCH?>
+ 1) In terminal: ```pip install APySC```
+ 
+ or:
+
+ Folder APySC, transport along the path:  ```.\python\python38-32\lib\site-packages```
+ 
+ 2) In terminal: ```python -m APySC```
+
+<CODE BY PYTHOFANOFF.>
 
 
 
