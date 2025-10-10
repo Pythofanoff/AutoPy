@@ -1,5 +1,4 @@
-
-﻿<DESCRIPTION>
+```﻿<DESCRIPTION>```
  v. of lib: 0.0.1
 
  AutoPySC or Auto Python Structure Creator - is a easy simple lib for create tree of project. 
