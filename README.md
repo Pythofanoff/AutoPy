@@ -1,4 +1,4 @@
-<DESCRIPTION>
+`<DESCRIPTION>`
  
 v. of lib: 0.0.1
 
@@ -26,7 +26,7 @@ MyProjects/
 └── README.md
 ```
 
-<HOW TO LAUNCH?>
+`<HOW TO LAUNCH?>`
  1) In terminal: ```pip install APySC```
  
  or:
@@ -35,7 +35,7 @@ MyProjects/
  
  2) In terminal: ```python -m APySC```
 
-<CODE BY PYTHOFANOFF.>
+`<CODE BY PYTHOFANOFF.>`
 
 
 
