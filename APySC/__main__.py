@@ -7,7 +7,7 @@ except ImportError as e:
 if __name__ == "__main__":
     sep = '-' * 15
 
-    src_fld = ('src', 'src/tests', 'src/logs', 'src/configs', 'src/functions', 'src/classes', 'src/images', 'src/cashes')
+    src_fld = ('src', 'src/tests', 'src/logs', 'src/configs', 'src/functions', 'src/classes', 'src/images', 'src/caсhes')
     src_fle = ('.gitignore', 'README.md', 'pyproject.toml', 'src/main.py')
 
     start = time.time()
@@ -64,6 +64,7 @@ if __name__ == "__main__":
 ╚═╝░░░░░╚═╝╚═╝░░╚══╝╚═╝╚═════╝░╚═╝░░╚═╝╚═╝''')
 
         print(f"{sep} \n[Spent {round(time.time() - start, 3)}]: AutoPy created the project structure successfully \n{sep}")
+
 
 
 
