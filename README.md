@@ -25,7 +25,7 @@ MyProjects/
 ├── pyproject.toml
 └── README.md
 ```
-time of the structure creation: ~±500 ms
+Time of the structure creation: ~±500 ms
 
 `<HOW TO LAUNCH?>`
  1) In terminal: ```pip install APySC```
