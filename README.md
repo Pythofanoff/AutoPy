@@ -11,7 +11,7 @@ Perhaps one day this small script will grow into something bigger.
 Creates the following structure:
 
 ```
-MyProjects/
+MyProject/
 ├── src/
 │   ├── configs/
 │   ├── logs/
@@ -34,7 +34,9 @@ Time of the structure creation: ~±500 ms
 
  Folder APySC, transport along the path:     ```.\python\python38-32\lib\site-packages```
  
- 2) In terminal: ```python -m APySC```
+ 2) cd MyProject
+ 
+ 3) In terminal: ```python -m APySC```
 
 `<CODE BY PYTHOFANOFF>`
 
