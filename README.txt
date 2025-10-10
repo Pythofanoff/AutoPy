@@ -1,7 +1,7 @@
 <DESCRIPTION>
  v. of lib: 0.0.1
 
- AutoPySC or Auto Python Structure Creator - is a easy lib for create tree of project. 
+ AutoPySC or Auto Python Structure Creator - is a easy simple lib for create tree of project. 
 
  This library was originally written for my own small, private projects, 
 but I decided to keep it publicly available. 
