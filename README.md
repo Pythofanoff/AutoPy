@@ -1,4 +1,4 @@
-```﻿<DESCRIPTION?>```
+```﻿<DESCRIPTION>```
  
 v. of lib: 0.0.1
 
