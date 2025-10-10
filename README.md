@@ -35,7 +35,7 @@ MyProjects/
  
  2) In terminal: ```python -m APySC```
 
-`<CODE BY PYTHOFANOFF.>`
+`<CODE BY PYTHOFANOFF>`
 
 
 
