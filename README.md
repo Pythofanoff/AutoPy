@@ -29,12 +29,14 @@ MyProjects/
 │   ├── tests/
 │   ├── images/
 │   └── caches/
+├── VirtualEnviroment
 ├── .gitignore
 ├── pyproject.toml
 └── README.md
 ```
 
 CODE BY PYTHOFANOFF. 
+
 
 
 
