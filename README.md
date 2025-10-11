@@ -11,19 +11,6 @@ Perhaps one day this small script will grow into something bigger.
 Creates the following structure:
 
 ```
-MyProject/
-├── src/
-│   ├── configs/
-│   ├── logs/
-│   ├── functions/
-│   ├── classes/
-│   ├── tests/
-│   ├── images/
-│   └── caches/
-├── VirtualEnviroment
-├── .gitignore
-├── pyproject.toml
-└── README.md
 ```
 Time of the structure creation: ~±500 ms
 
@@ -34,11 +21,14 @@ Time of the structure creation: ~±500 ms
 
  Folder APySC, transport along the path:     ```.\python\python38-32\lib\site-packages```
  
- 2) cd MyProject
+ 2) In terminal: ```cd MyProject```
  
  3) In terminal: ```python -m APySC```
-
+
+
+
 `<CODE BY PYTHOFANOFF>`
+
 
 
 
